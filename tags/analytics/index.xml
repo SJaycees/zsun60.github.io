@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basic on Jaycee&#39;s Blog</title>
-    <link>https://sjaycees.github.io/categories/basic/</link>
-    <description>Recent content in Basic on Jaycee&#39;s Blog</description>
+    <title>analytics on Jaycee&#39;s Blog</title>
+    <link>https://sjaycees.github.io/tags/analytics/</link>
+    <description>Recent content in analytics on Jaycee&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Nov 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://sjaycees.github.io/categories/basic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Nov 2021 08:06:25 +0600</lastBuildDate><atom:link href="https://sjaycees.github.io/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimation Decision Making</title>
       <link>https://sjaycees.github.io/posts/introduction/</link>

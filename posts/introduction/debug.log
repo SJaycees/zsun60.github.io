@@ -1,0 +1,6 @@
+[0107/171631:INFO:http_cache_transaction.cc(72)] IgnoreZeroCacheError: 0
+[0107/171635:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0107/171636:WARNING:spdy_session.cc(2455)] Received HEADERS for invalid stream 45
+[0107/172249:WARNING:url_request_job_manager.cc(89)] Failed to map: weixin://resourceid/blank
+[0107/202700:ERROR:shell.cc(348)] Cannot client process matching existing identity:Name: exe:content_gpu User: 505C0EE9-3013-43C0-82B0-A84F50CF8D84 Instance: content_gpu
+[0107/202700:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
